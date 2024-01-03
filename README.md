@@ -1,16 +1,48 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vtitov90.vtitov90" />
 
-<!--
-**vtitov90/vtitov90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Valeriy+Titov!;" />
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">A novice web developer from Ukraine.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on finding an intership
+ 
+ 🌱 I’m currently learning **Node.js, React and JavaScript design patterns**
+
+💬 Ask me about **JavaScript, HTML, CSS**
+
+⚡ Fun fact **Debugging is like trying to solve a murder mystery, but you're the detective, the murderer, and the victim.**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:valeriytitov90@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://t.me/valery_tit0v" >
+    <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,html,css,github,git,javascript" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,c,cpp,cs,jquery,jest,sass,webpack,java,discord,codepen,regex,instagram" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<br/>
+
+- 📄 Web developer, student at National Technical University "Kharkiv Polytechnic Institute". I am highly motivated and have a passion for study, reliable with deadlines and dedicated to following instructions.
+
+<br/>
