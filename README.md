@@ -41,8 +41,3 @@
 <br/>
 <hr/>
 
-<br/>
-
-- 📄 Web developer, student at National Technical University "Kharkiv Polytechnic Institute". I am highly motivated and have a passion for study, reliable with deadlines and dedicated to following instructions.
-
-<br/>
