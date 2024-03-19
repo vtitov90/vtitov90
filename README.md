@@ -16,8 +16,6 @@
 
 💬 Ask me about **JavaScript, HTML, CSS**
 
-⚡ Fun fact **Debugging is like trying to solve a murder mystery, but you're the detective, the murderer, and the victim.**
-
  </div>
  
 <div align="center"> 
