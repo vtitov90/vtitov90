@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on finding an intership
  
- 🌱 I’m currently learning **Node.js, React and JavaScript design patterns**
+ 🌱 I’m currently learning **MongoDB, Mongoose and JavaScript design patterns**
 
-💬 Ask me about **JavaScript, HTML, CSS**
+💬 Ask me about **JavaScript, HTML, CSS, Node.js, Express.js, PostgreSQL**
 
  </div>
  
