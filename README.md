@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,html,css,github,git,javascript,nodejs,expres,jquery,jest,sass,webpack,pug&perline=12" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,html,css,github,git,javascript,nodejs,express,jquery,jest,sass,webpack,pug&perline=14" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,c,cpp,cs,java,discord,codepen,regex" /><br>
 </div>
 
