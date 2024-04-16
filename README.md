@@ -29,12 +29,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<! --<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=babel,bootstrap,html,css,github,git,javascript,jquery,jest,sass,webpack&perline=12" />
     <img src="https://skillicons.dev/icons?i=vscode,idea,c,cpp,cs,java,discord,codepen,regex" /><br>
-</div>
+</div>-->
 
 <br/>
 
