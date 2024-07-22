@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on finding an intership
- 
  🌱 I’m currently learning **MongoDB, Mongoose, Typescript and JavaScript design patterns**
 
 💬 Ask me about **JavaScript, HTML, CSS, Node.js, Express.js, PostgreSQL**
