@@ -9,9 +9,10 @@
 <br/>
 
 <div align="center">
+    
 🔭 I’m currently working on getting bachelor's degree
 
- 🌱 I’m currently learning **MongoDB, Mongoose, Typescript and JavaScript design patterns**
+🌱 I’m currently learning **MongoDB, Mongoose, Typescript and JavaScript design patterns**
 
 💬 Ask me about **JavaScript, HTML, CSS, Node.js, Express.js, PostgreSQL**
 
