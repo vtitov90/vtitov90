@@ -12,9 +12,9 @@
     
 🔭 I’m currently working on getting bachelor's degree on Software Engineer
 
-🌱 I’m currently learning **MongoDB, Mongoose, React and JavaScript design patterns**
+🌱 I’m currently learning **React and JavaScript design patterns**
 
-💬 Ask me about **JavaScript, HTML, CSS, TypeScript, Node.js, Express.js, PostgreSQL**
+💬 Ask me about **JavaScript, HTML, CSS, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, Mongoose**
 
  </div>
  
