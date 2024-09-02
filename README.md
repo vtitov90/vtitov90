@@ -1,17 +1,38 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vtitov90.vtitov90" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Valeriy+Titov!;" />
-</h1>
+### Full Stack Developer
+### I am a Full Stack Developer with expertise in building scalable web applications. Proficient in HTML, CSS, JavaScript, and TypeScript, I craft responsive and user-friendly interfaces using frameworks like Bootstrap. On the server side, I specialize in Node.js and Express.js, applying the MVC architecture to build efficient RESTful APIs and manage data with PostgreSQL and MongoDB. I am also skilled in using tools like Webpack, Jest, Git, and GitHub for efficient development and version control. My focus is on writing clean, maintainable code while following best practices and staying current with industry trends.
 
-<h2 align="center">Web developer from Ukraine</h2>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,nodejs,express,postgres,mongodb,jquery&perline=10" />
-    <img src="https://skillicons.dev/icons?i=jest,sass,webpack,pug,git,github,postman,vscode" /><br>
+
+## My Skill Set
+
+<br/>
+
+<table><tr><td valign="top" width="33%">
+    
+### Frontend  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,jquery,sass,webpack&perline=5" />
 </div>
+
+</td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,pug,postman&perline=5" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Development & Testing  
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=jest,git,github,vscode" />
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
 
 
 <div align="center">
