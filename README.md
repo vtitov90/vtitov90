@@ -4,9 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Valeriy+Titov!;" />
 </h1>
 
-<h3 align="center">Web developer from Ukraine</h3>
+<h2 align="center">Web developer from Ukraine</h2>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,nodejs,express,postgres,mongodb,jquery&perline=10" />
+    <img src="https://skillicons.dev/icons?i=jest,sass,webpack,pug,git,github,postman,vscode" /><br>
+</div>
 
 
 <div align="center">
@@ -24,15 +29,6 @@
         <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
 </div>  
- 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,nodejs,express,postgres,mongodb,jquery&perline=10" />
-    <img src="https://skillicons.dev/icons?i=jest,sass,webpack,pug,git,github,postman,vscode" /><br>
-</div>
 
 <br/>
 
