@@ -26,7 +26,7 @@
 
 ### Development & Testing  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=jest,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,vscode" />
 </div>
 
 </td></tr></table>  
