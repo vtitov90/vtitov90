@@ -8,25 +8,23 @@
 
 <br/>
 
+
 <div align="center">
-    
-🔭 I’m currently working on getting bachelor's degree on Software Engineer
-
-🌱 I’m currently learning **React and JavaScript design patterns**
-
-💬 Ask me about **JavaScript, HTML, CSS, TypeScript, Node.js, Express.js, PostgreSQL, MongoDB, Mongoose**
-
- </div>
+    <h2>Connect with me  </h2>
+    <a href="https://github.com/vtitov90" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+    </a>
+    <a href="mailto:valeriytitov90@gmail.com" >
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red alt=gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/valeriy-titov-a209b3312/" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+    </a>
+    <a href="https://t.me/valery_tit0v" >
+        <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+</div>  
  
-<div align="center"> 
-  <a href="mailto:valeriytitov90@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://t.me/valery_tit0v" >
-    <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</div>
-
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
