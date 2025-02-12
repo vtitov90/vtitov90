@@ -12,7 +12,7 @@
     
 ### Frontend  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,jquery,react,redux,sass,webpack&perline=5" />
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,jquery,react,redux,sass&perline=5" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -26,7 +26,7 @@
 
 ### Development & Testing  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,postman,vite,vscode" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,postman,vite,webpack,vscode&perline=5" />
 </div>
 
 </td></tr></table>  
