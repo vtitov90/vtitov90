@@ -12,21 +12,21 @@
     
 ### Frontend  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,jquery,sass,webpack&perline=5" />
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,javascript,ts,jquery,react,redux,sass,webpack&perline=5" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,pug,postman&perline=5" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,mongodb,pug&perline=5" />
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Development & Testing  
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,git,github,postman,vite,vscode" />
 </div>
 
 </td></tr></table>  
