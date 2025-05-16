@@ -38,17 +38,18 @@
 <div align="center">
     <h2>Connect with me  </h2>
     <a href="https://github.com/vtitov90" target="_blank">
-        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github" />
+      <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
-    <a href="mailto:valeriytitov90@gmail.com" >
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red alt=gmail" />
+    <a href="mailto:valeriytitov90@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail" />
     </a>
     <a href="https://www.linkedin.com/in/valeriy-titov-a209b3312/" target="_blank">
-        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
+      <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
-    <a href="https://t.me/valery_tit0v" >
-        <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white">
+    <a href="https://t.me/valery_tit0v">
+      <img src="https://img.shields.io/badge/telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
     </a>
+
 </div>  
 
 <br/>
