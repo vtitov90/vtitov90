@@ -1,7 +1,6 @@
 
 ### Full Stack Developer
-### I am a Full Stack Developer with expertise in building scalable web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and React, I craft responsive and user-friendly interfaces using frameworks like Bootstrap. On the server side, I specialize in Node.js and Express.js, applying the MVC architecture to build efficient RESTful APIs and manage data with PostgreSQL and MongoDB. I am also skilled in using tools like Webpack, Jest, Git, and GitHub for efficient development and version control. My focus is on writing clean, maintainable code while following best practices and staying current with industry trends.
-
+### I am a Full Stack Developer with a solid foundation in building modern web applications. Proficient in HTML, CSS, JavaScript, TypeScript, and React, I create responsive, user-friendly interfaces using tools like Bootstrap, SCSS/SASS, and CSS Modules. On the back end, I develop RESTful APIs with Node.js and Express.js following the MVC pattern, and manage data using PostgreSQL and MongoDB. I also use tools such as Webpack, Vite, Git, and Jest for development and testing, and deploy apps with platforms like Vercel and Railway. I focus on clean, maintainable code and continuous learning.
 <br/>
 
 ## My Skill Set
